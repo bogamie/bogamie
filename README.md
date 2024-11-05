@@ -4,6 +4,10 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bogamiee&hide_border=true" alt="GitHub Streak" /></a>    
 </p>
 
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bogamie)](https://solved.ac/bogamie/)
+
 <!--
 **Bogamiee/bogamiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
