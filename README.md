@@ -6,10 +6,11 @@
 
 <br>
 
-<p align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bogamie)](https://solved.ac/bogamie/)
-</p>
-
+<div align="center">
+  <a href="https://solved.ac/bogamie/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bogamie" alt="Solved.ac Profile" />
+  </a>
+</div>
 
 <!--
 **Bogamiee/bogamiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
