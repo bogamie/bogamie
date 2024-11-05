@@ -2,10 +2,13 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bogamiee&hide_border=true" alt="GitHub Streak" /></a>   
-  <br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bogamie)](https://solved.ac/bogamie/)
 </p>
 
+<br>
+
+<p align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bogamie)](https://solved.ac/bogamie/)
+</p>
 
 
 <!--
