@@ -4,8 +4,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bogamiee&hide_border=true" alt="GitHub Streak" /></a>   
 </p>
 
-<br>
-
 <div align="center">
   <a href="https://solved.ac/bogamie/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bogamie" alt="Solved.ac Profile" />
