@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bogamiee&hide_border=true" alt="GitHub Streak" /></a>   
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bogamie&hide_border=true" alt="GitHub Streak" /></a>   
 </p>
 
 <div align="center">
