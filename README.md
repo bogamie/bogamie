@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-<p align="center">
-  <a href="https://github.com/Bogamie"><img src="https://streak-stats.demolab.com?user=Bogamie&theme=ambient-gradient&hide_border=true&border_radius=16&date_format=%5BY.%5Dn.j." alt="GitHub Streak" /></a>
-</p>
-
 <div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bogamie&theme=ambient-gradient&hide_border=true&border_radius=12&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=350&card_height=170&fire=FFA726&background=40%2CCDCACF%2C34495D&ring=FFA726&hide_longest_streak=true" alt="GitHub Streak" /></a><br>
   <a href="https://solved.ac/bogamie/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bogamie" alt="Solved.ac Profile" />
   </a>
